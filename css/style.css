@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-bg {
+    background: #FFF9F4;
+}
+.font-highlight {
+    color: #FA804C;
+}
+
+.btn-bg {
+    background: #3D4FF3;
+    color: white;
+}
+.btn-bg:hover {
+    background: #4d5ef0;
+    color: white;
+}
+.price-tag h3 {
+    font-size: 2rem;
+    color: #FA804C;
+    font-weight: 700;
+}
+.card-d {
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+
+.card-title-style {
+    color: #363958;
+    font-size: 1.2rem;
+}
+
+.shadow-box {
+    max-width: 490px;
+    border-radius: 20px;
+}
+
+.top-contn-styl h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5rem;
+    font-style: normal;
+}
+.section-title {
+    color: #363958;
+    font-weight: 500;
+    font-size: 3.5rem;
+    font-family: 'Bebas Neue', cursive;
+}
+
